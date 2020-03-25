@@ -2,5 +2,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
 
+body {
+    background-color: black;
+}
+
+.sfondo {
+    background-color: black;
+}
+
+.black {
+    background-color: black;
+    height: 100px;
+
+}
+.white {
+    background: white;
+    height:100px;
+}
+.gold {
+    background-color: gold;
+    height: 20px;
 }
